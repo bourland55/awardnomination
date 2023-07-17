@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="8c7694b8fc8831107f449da0d857501d" sys_domain="global" table="x_snc_awards_app_awards_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-12 17:50:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>507694b8fc8831107f449da0d8575022</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_awards_app_awards_request" name="x_snc_awards_app_awards_request" sys_domain="global" view="Default view">8c7694b8fc8831107f449da0d857501d</sys_ui_form>
+            <sys_ui_section caption="Award Recipient Info" display_value="Award Recipient Info" name="x_snc_awards_app_awards_request" sys_domain="global" view="Default view">c87694b8fc8831107f449da0d8575019</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-12 18:07:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-12 17:50:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>187694b8fc8831107f449da0d8575067</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_awards_app_awards_request" name="x_snc_awards_app_awards_request" sys_domain="global" view="Default view">8c7694b8fc8831107f449da0d857501d</sys_ui_form>
+            <sys_ui_section caption="Certification by Nominating Offiial" display_value="Certification by Nominating Offiial" name="x_snc_awards_app_awards_request" sys_domain="global" view="Default view">cc7694b8fc8831107f449da0d857501b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-12 18:07:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-12 17:50:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e87694b8fc8831107f449da0d85750c6</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_awards_app_awards_request" name="x_snc_awards_app_awards_request" sys_domain="global" view="Default view">8c7694b8fc8831107f449da0d857501d</sys_ui_form>
+            <sys_ui_section caption="Task  Info &amp; History" display_value="Task  Info &amp; History" name="x_snc_awards_app_awards_request" sys_domain="global" view="Default view">447694b8fc8831107f449da0d857501d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-12 18:07:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_awards_app_awards_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-12 17:50:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c7694b8fc8831107f449da0d857501d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_awards_app_awards_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Awards App" source="x_snc_awards_app">d2859facfcc031107f449da0d8575079</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Awards App">d2859facfcc031107f449da0d8575079</sys_scope>
+            <sys_update_name>sys_ui_form_sections_8c7694b8fc8831107f449da0d857501d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-12 17:50:01</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Award Nomination">03fdefa4fc8431107f449da0d8575048</catalog_item>
+        <catalog_variable>IO:03cc7becfcc431107f449da0d8575020</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>chris.york</sys_created_by>
+        <sys_created_on>2023-07-12 17:45:11</sys_created_on>
+        <sys_id>1155d038fc8831107f449da0d85750de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>employee_departure_date</sys_name>
+        <sys_package display_value="Awards App" source="x_snc_awards_app">d2859facfcc031107f449da0d8575079</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Awards App">d2859facfcc031107f449da0d8575079</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_1155d038fc8831107f449da0d85750de</sys_update_name>
+        <sys_updated_by>chris.york</sys_updated_by>
+        <sys_updated_on>2023-07-12 17:45:11</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Award Nomination UI policy">c5455038fc8831107f449da0d8575062</ui_policy>
+        <variable>employee_departure_date</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="a05a8034fc4831107f449da0d85750c6" sys_domain="global" table="x_snc_awards_app_award_case" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-12 16:57:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>645a8034fc4831107f449da0d85750c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_awards_app_award_case" name="x_snc_awards_app_award_case" sys_domain="global" view="Default view">a05a8034fc4831107f449da0d85750c6</sys_ui_form>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_snc_awards_app_award_case" sys_domain="global" view="Default view">5169dbe0fc0431107f449da0d857507c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-12 16:57:05</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-12 17:06:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2e7cccf4fc4831107f449da0d857503e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_awards_app_award_case" name="x_snc_awards_app_award_case" sys_domain="global" view="Default view">a05a8034fc4831107f449da0d85750c6</sys_ui_form>
+            <sys_ui_section caption="Nominating" display_value="Nominating" name="x_snc_awards_app_award_case" sys_domain="global" view="Default view">a67c8cf4fc4831107f449da0d85750cb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-12 17:06:29</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-12 16:57:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f05a8034fc4831107f449da0d85750ca</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_awards_app_award_case" name="x_snc_awards_app_award_case" sys_domain="global" view="Default view">a05a8034fc4831107f449da0d85750c6</sys_ui_form>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_snc_awards_app_award_case" sys_domain="global" view="Default view">245a8034fc4831107f449da0d85750c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-12 17:06:29</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-12 16:57:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>385ac034fc4831107f449da0d857500c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_awards_app_award_case" name="x_snc_awards_app_award_case" sys_domain="global" view="Default view">a05a8034fc4831107f449da0d85750c6</sys_ui_form>
+            <sys_ui_section caption="Task History" display_value="Task History" name="x_snc_awards_app_award_case" sys_domain="global" view="Default view">685a8034fc4831107f449da0d85750c5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-12 17:06:29</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_awards_app_award_case</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-12 16:57:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a05a8034fc4831107f449da0d85750c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_awards_app_award_case</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Awards App" source="x_snc_awards_app">d2859facfcc031107f449da0d8575079</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Awards App">d2859facfcc031107f449da0d8575079</sys_scope>
+            <sys_update_name>sys_ui_form_sections_a05a8034fc4831107f449da0d85750c6</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-12 16:57:04</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

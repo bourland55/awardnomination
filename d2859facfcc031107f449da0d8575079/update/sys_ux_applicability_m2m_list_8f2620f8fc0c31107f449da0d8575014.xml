@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Audience for app cos-view">71a9e3ecfc4431107f449da0d8575083</applicability>
+        <list display_value="Award Req">3a26acb8fc0c31107f449da0d857500f</list>
+        <order>0</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>helen.choi</sys_created_by>
+        <sys_created_on>2023-07-12 18:58:45</sys_created_on>
+        <sys_id>8f2620f8fc0c31107f449da0d8575014</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Awards App" source="x_snc_awards_app">d2859facfcc031107f449da0d8575079</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Awards App">d2859facfcc031107f449da0d8575079</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_8f2620f8fc0c31107f449da0d8575014</sys_update_name>
+        <sys_updated_by>helen.choi</sys_updated_by>
+        <sys_updated_on>2023-07-12 18:58:45</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_snc_awards_app.Audience for app cos-view</api_name>
+        <description/>
+        <name>Audience for app cos-view</name>
+        <roles>ea859facfcc031107f449da0d85750b7,26859facfcc031107f449da0d8575083,96859facfcc031107f449da0d857507f</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 14:34:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>71a9e3ecfc4431107f449da0d8575083</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Audience for app cos-view</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Awards App" source="x_snc_awards_app">d2859facfcc031107f449da0d8575079</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Awards App">d2859facfcc031107f449da0d8575079</sys_scope>
+        <sys_update_name>sys_ux_applicability_71a9e3ecfc4431107f449da0d8575083</sys_update_name>
+        <sys_updated_by>chris.york</sys_updated_by>
+        <sys_updated_on>2023-07-12 18:21:10</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_snc_awards_app_grade_level" label="Grade level" language="en" table="sys_user">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_snc_awards_app_grade_level</element>
+            <help/>
+            <hint/>
+            <label>Grade level</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <plural>Grade levels</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>chris.york</sys_created_by>
+            <sys_created_on>2023-07-12 15:48:03</sys_created_on>
+            <sys_id>e58a7be8fcc431107f449da0d85750bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Grade level</sys_name>
+            <sys_package display_value="Awards App" source="x_snc_awards_app">d2859facfcc031107f449da0d8575079</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Awards App">d2859facfcc031107f449da0d8575079</sys_scope>
+            <sys_update_name>sys_documentation_sys_user_x_snc_awards_app_grade_level_en</sys_update_name>
+            <sys_updated_by>chris.york</sys_updated_by>
+            <sys_updated_on>2023-07-12 15:48:03</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
