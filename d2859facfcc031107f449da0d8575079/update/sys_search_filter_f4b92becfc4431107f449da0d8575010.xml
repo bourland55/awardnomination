@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
     <sys_search_filter action="INSERT_OR_UPDATE">
         <active>true</active>
-        <ais_search_source display_value="Award Budget">e8b9a7ecfc4431107f449da0d85750bd</ais_search_source>
+        <ais_search_source display_value="">e8b9a7ecfc4431107f449da0d85750bd</ais_search_source>
         <label>Award Budget</label>
         <name>Award Budget</name>
         <order>100</order>

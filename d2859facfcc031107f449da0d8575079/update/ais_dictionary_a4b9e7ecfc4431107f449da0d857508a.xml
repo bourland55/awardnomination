@@ -8,12 +8,12 @@
         <derived>true</derived>
         <field/>
         <label>COS View search profile Default Spell Check Dictionary</label>
-        <last_derived/>
+        <last_derived>2023-07-17 14:07:30</last_derived>
         <locale>en</locale>
         <name>x_snc_awards_app_cos_view_search_profile_default_spell_check_dictionary</name>
-        <publish_id/>
+        <publish_id>7270c531-b9ce-44e4-88ca-c50a6db598fb</publish_id>
         <punctuation_sensitive>false</punctuation_sensitive>
-        <state>DRAFT</state>
+        <state>PUBLISHED</state>
         <sys_class_name>ais_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-12 14:34:32</sys_created_on>

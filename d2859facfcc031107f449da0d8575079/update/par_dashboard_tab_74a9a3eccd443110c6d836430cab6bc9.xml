@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_tab">
     <par_dashboard_tab action="INSERT_OR_UPDATE">
         <active>true</active>
-        <dashboard display_value="COS View">fca9a3ec9f443110d44d3337be4a5fc4</dashboard>
+        <dashboard display_value="Employee Awards">fca9a3ec9f443110d44d3337be4a5fc4</dashboard>
         <name>Tab</name>
         <order>0</order>
         <sys_class_name>par_dashboard_tab</sys_class_name>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9649db24fc0431107f449da0d8575088" label="Award Case" max_length="40" name="x_snc_awards_app_award_case" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Category" max_length="40" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Mission" sequence="0" value="mission"/>
+                <element inactive_on_update="false" label="Workplace" sequence="1" value="workplace"/>
+                <element inactive_on_update="false" label="Culture" sequence="2" value="culture"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Directorate" max_length="32" name="directorate" reference="x_snc_awards_app_directorate" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Eligibility" max_length="40" name="eligibility" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Employee Departed YN" max_length="40" name="employee_departed_yn" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element label="Employee Departure Date" max_length="40" name="employee_departure_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Employee Departure Pending (45d)" max_length="40" name="employee_departure_pending_45d" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Employee Name" max_length="32" name="employee_name" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Funding" max_length="40" name="funding" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="GF" sequence="0" value="gf"/>
+                <element inactive_on_update="false" label="WC" sequence="1" value="wc"/>
+            </choice>
+        </element>
+        <element label="Impact" max_length="10000" name="impact" type="string"/>
+        <element label="Justification" max_length="10000" name="justification" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Monetary Level" max_length="40" name="monetary_level" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Branch/Team ($750)" sequence="0" value="branch_team_750"/>
+                <element inactive_on_update="false" label="Division ($1,500)" sequence="1" value="division_1_500"/>
+                <element inactive_on_update="false" label="Directorate ($2,500)" sequence="2" value="directorate_2_500"/>
+                <element inactive_on_update="false" label="Cross Directorate ($3,500)" sequence="3" value="cross_directorate_3_500"/>
+                <element inactive_on_update="false" label="Agency ($5,000 - $10,000)" sequence="4" value="agency_5_000_10_000"/>
+                <element inactive_on_update="false" label="DoD (&gt;$10,000)" sequence="5" value="dod_10_000"/>
+            </choice>
+        </element>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Pending Discipline" max_length="40" name="pending_discipline" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Team List Attached" max_length="40" name="team_list_attached" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element label="Team Name" max_length="40" name="team_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Time off Level" max_length="40" name="time_off_level" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Moderate Accomplishment (8 hrs)" sequence="0" value="moderate_accomplishment_8_hrs"/>
+                <element inactive_on_update="false" label="Substantial Accomplishment (16 hrs)" sequence="1" value="substantial_accomplishment_16_hrs"/>
+                <element inactive_on_update="false" label="High Accomplishment (24 hrs)" sequence="2" value="high_accomplishment_24_hrs"/>
+                <element inactive_on_update="false" label="Exceptional Accomplishment (40 hrs)" sequence="3" value="exceptional_accomplishment_40_hrs"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Type of Award" max_length="40" name="type_of_award" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Monetary" sequence="0" value="monetary"/>
+                <element inactive_on_update="false" label="Time Off" sequence="1" value="time_off"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="directorate"/>
+        </index>
+        <index name="index2">
+            <element name="employee_name"/>
+        </index>
+    </element>
+</database>

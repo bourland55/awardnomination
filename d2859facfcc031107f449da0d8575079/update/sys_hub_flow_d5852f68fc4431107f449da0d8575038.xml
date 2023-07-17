@@ -29,15 +29,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>d5852f68fc4431107f449da0d8575038</sys_id>
-        <sys_mod_count>25</sys_mod_count>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Awards Flow</sys_name>
         <sys_overrides/>
         <sys_package display_value="Awards App" source="x_snc_awards_app">d2859facfcc031107f449da0d8575079</sys_package>
         <sys_policy/>
         <sys_scope display_value="Awards App">d2859facfcc031107f449da0d8575079</sys_scope>
         <sys_update_name>sys_hub_flow_d5852f68fc4431107f449da0d8575038</sys_update_name>
-        <sys_updated_by>chris.york</sys_updated_by>
-        <sys_updated_on>2023-07-12 19:16:55</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-17 14:04:07</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=d5852f68fc4431107f449da0d8575038"/>
@@ -1318,11 +1318,11 @@
         <sys_created_on>2023-07-12 14:46:34</sys_created_on>
         <sys_id>497cab24fc8431107f449da0d85750b8</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Table Name</sys_name>
         <sys_package display_value="Awards App" source="x_snc_awards_app">d2859facfcc031107f449da0d8575079</sys_package>
         <sys_policy/>
         <sys_scope display_value="Awards App">d2859facfcc031107f449da0d8575079</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_d5852f68fc4431107f449da0d8575038_table_name_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-07-12 14:46:34</sys_updated_on>
         <url/>
@@ -1341,11 +1341,11 @@
         <sys_created_on>2023-07-12 14:46:34</sys_created_on>
         <sys_id>747cab24fc8431107f449da0d85750b5</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Record</sys_name>
         <sys_package display_value="Awards App" source="x_snc_awards_app">d2859facfcc031107f449da0d8575079</sys_package>
         <sys_policy/>
         <sys_scope display_value="Awards App">d2859facfcc031107f449da0d8575079</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_d5852f68fc4431107f449da0d8575038_current_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-07-12 14:46:34</sys_updated_on>
         <url/>
@@ -2546,11 +2546,11 @@
         <sys_created_on>2023-07-12 18:06:47</sys_created_on>
         <sys_id>394a50b0fcc831107f449da0d85750c3</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Record</sys_name>
         <sys_package display_value="Awards App" source="x_snc_awards_app">d2859facfcc031107f449da0d8575079</sys_package>
         <sys_policy/>
         <sys_scope display_value="Awards App">d2859facfcc031107f449da0d8575079</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_f54a50b0fcc831107f449da0d8575094_current_en</sys_update_name>
         <sys_updated_by>chris.york</sys_updated_by>
         <sys_updated_on>2023-07-12 18:06:47</sys_updated_on>
         <url/>
@@ -2569,11 +2569,11 @@
         <sys_created_on>2023-07-12 18:06:47</sys_created_on>
         <sys_id>b14a50b0fcc831107f449da0d85750f1</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Table Name</sys_name>
         <sys_package display_value="Awards App" source="x_snc_awards_app">d2859facfcc031107f449da0d8575079</sys_package>
         <sys_policy/>
         <sys_scope display_value="Awards App">d2859facfcc031107f449da0d8575079</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_f54a50b0fcc831107f449da0d8575094_table_name_en</sys_update_name>
         <sys_updated_by>chris.york</sys_updated_by>
         <sys_updated_on>2023-07-12 18:06:47</sys_updated_on>
         <url/>

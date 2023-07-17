@@ -2,7 +2,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="employee_departure_pending_45d" table="x_snc_awards_app_awards_request">
         <active>true</active>
         <array>false</array>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation/>
         <choice>1</choice>
@@ -47,7 +47,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>Cherinor.Snead</sys_created_by>
         <sys_created_on>2023-07-12 17:11:44</sys_created_on>
-        <sys_id>5fad44b8fc4831107f449da0d857506e</sys_id>
         <sys_name>Employee Departure Pending (45d)</sys_name>
         <sys_package display_value="Awards App" source="x_snc_awards_app">d2859facfcc031107f449da0d8575079</sys_package>
         <sys_policy/>

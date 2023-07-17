@@ -24,7 +24,7 @@
             <sys_mod_count>2</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_snc_awards_app_awards_request" name="x_snc_awards_app_awards_request" sys_domain="global" view="Default view">8c7694b8fc8831107f449da0d857501d</sys_ui_form>
-            <sys_ui_section caption="Certification by Nominating Offiial" display_value="Certification by Nominating Offiial" name="x_snc_awards_app_awards_request" sys_domain="global" view="Default view">cc7694b8fc8831107f449da0d857501b</sys_ui_section>
+            <sys_ui_section caption="Certification by Nominating Official" display_value="Certification by Nominating Official" name="x_snc_awards_app_awards_request" sys_domain="global" view="Default view">cc7694b8fc8831107f449da0d857501b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-07-12 18:07:50</sys_updated_on>
         </sys_ui_form_section>

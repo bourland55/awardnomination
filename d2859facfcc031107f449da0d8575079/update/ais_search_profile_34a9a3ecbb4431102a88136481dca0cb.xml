@@ -5,8 +5,8 @@
         <genius_result_assembly/>
         <label>COS View search profile</label>
         <name>x_snc_awards_app_dvairmqm_search_profile</name>
-        <publish_id>4b4c2134-9876-4894-b059-58d398587ca4</publish_id>
-        <state>DRAFT</state>
+        <publish_id>4e269f31-d29e-4e01-9365-f3e7ae8cd822</publish_id>
+        <state>PUBLISHED</state>
         <sys_class_name>ais_search_profile</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-12 14:34:17</sys_created_on>

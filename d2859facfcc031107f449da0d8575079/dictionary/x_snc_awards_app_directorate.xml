@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="322f5f6cfc0431107f449da0d8575002" label="Directorate" max_length="40" name="x_snc_awards_app_directorate" text_index="true" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Supervisor" max_length="32" name="supervisor" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="supervisor"/>
+        </index>
+    </element>
+</database>

@@ -2,7 +2,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="time_off_level" table="x_snc_awards_app_award_case">
         <active>true</active>
         <array>false</array>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation/>
         <choice>1</choice>
@@ -47,7 +47,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-12 13:51:02</sys_created_on>
-        <sys_id>63bf57ecfc0431107f449da0d857503e</sys_id>
         <sys_name>Time off Level</sys_name>
         <sys_package display_value="Awards App" source="x_snc_awards_app">d2859facfcc031107f449da0d8575079</sys_package>
         <sys_policy/>

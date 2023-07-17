@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c5eb5728fc0431107f449da0d857502d" label="Award Budget" max_length="40" name="x_snc_awards_app_award_budget" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Amount" max_length="40" name="amount" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Balance" max_length="40" name="balance" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Directorate" max_length="32" name="directorate" reference="x_snc_awards_app_directorate" type="reference"/>
+        <index name="index">
+            <element name="directorate"/>
+        </index>
+    </element>
+</database>

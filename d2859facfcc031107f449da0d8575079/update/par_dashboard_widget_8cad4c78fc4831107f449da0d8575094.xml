@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
     <par_dashboard_widget action="INSERT_OR_UPDATE">
         <canvas display_value="">70a9a3ec084431108dd9d89ef52dfbc6</canvas>
-        <component display_value="">6083add31d71827a26ceadfcc4e31550</component>
+        <component display_value="now-image">6083add31d71827a26ceadfcc4e31550</component>
         <component_props>{"alt":"","src":"/now-image-placeholder.jpg","fit":"cover","position":"center center"}</component_props>
         <h>8</h>
         <name/>

@@ -18,6 +18,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-07-12 14:34:18</sys_updated_on>
         <theme display_value="Starter Workspace Theme">30a9a3ecb4443110772938b833b978c6</theme>
+        <u_original_theme/>
         <ux_app_configuration display_value="COS View Config">3ca9a3ecb94431100179e4e4b63812cb</ux_app_configuration>
     </m2m_app_config_theme>
 </record_update>

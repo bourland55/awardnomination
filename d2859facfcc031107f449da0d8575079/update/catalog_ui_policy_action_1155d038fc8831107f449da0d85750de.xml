@@ -20,7 +20,7 @@
         <sys_updated_by>chris.york</sys_updated_by>
         <sys_updated_on>2023-07-12 17:45:11</sys_updated_on>
         <table/>
-        <ui_policy display_value="Award Nomination UI policy">c5455038fc8831107f449da0d8575062</ui_policy>
+        <ui_policy display_value="Make 'employee_departure_date' mandatory &amp; visible depending on 'employee_departed_yn'">c5455038fc8831107f449da0d8575062</ui_policy>
         <variable>employee_departure_date</variable>
         <variable_set/>
         <visible>true</visible>

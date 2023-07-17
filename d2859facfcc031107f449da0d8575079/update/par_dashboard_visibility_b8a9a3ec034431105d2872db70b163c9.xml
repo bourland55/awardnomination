@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_visibility">
     <par_dashboard_visibility action="INSERT_OR_UPDATE">
-        <dashboard display_value="COS View">fca9a3ec9f443110d44d3337be4a5fc4</dashboard>
-        <experience display_value="COS View">3ca9a3ecbb443110b73a160dacf379c5</experience>
+        <dashboard display_value="Employee Awards">fca9a3ec9f443110d44d3337be4a5fc4</dashboard>
+        <experience display_value="Agency Awards">3ca9a3ecbb443110b73a160dacf379c5</experience>
         <sys_class_name>par_dashboard_visibility</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-12 14:34:16</sys_created_on>

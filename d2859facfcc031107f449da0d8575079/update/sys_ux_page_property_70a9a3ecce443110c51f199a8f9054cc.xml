@@ -3,7 +3,7 @@
         <choices/>
         <description>sys_ux_applicability sys_id for Workspace audience</description>
         <name>wbApplicabilityConfigId</name>
-        <page display_value="COS View">3ca9a3ecbb443110b73a160dacf379c5</page>
+        <page display_value="Agency Awards">3ca9a3ecbb443110b73a160dacf379c5</page>
         <required_translations/>
         <route/>
         <suffix/>

@@ -20,7 +20,7 @@
         <sys_updated_by>chris.york</sys_updated_by>
         <sys_updated_on>2023-07-12 17:39:33</sys_updated_on>
         <table/>
-        <ui_policy display_value="Award Nomination UI policy">a9f310b4fc8831107f449da0d8575060</ui_policy>
+        <ui_policy display_value="Make 'time_off_level' mandatory &amp; visible depending on 'type_of_award'">a9f310b4fc8831107f449da0d8575060</ui_policy>
         <variable>time_off_level</variable>
         <variable_set/>
         <visible>true</visible>

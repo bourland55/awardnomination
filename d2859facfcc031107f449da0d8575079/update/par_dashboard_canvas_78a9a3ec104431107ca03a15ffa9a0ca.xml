@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_canvas">
     <par_dashboard_canvas action="INSERT_OR_UPDATE">
-        <dashboard display_value="COS View">fca9a3ec9f443110d44d3337be4a5fc4</dashboard>
+        <dashboard display_value="Employee Awards">fca9a3ec9f443110d44d3337be4a5fc4</dashboard>
         <dashboard_tab/>
         <layout>[]</layout>
         <sys_class_name>par_dashboard_canvas</sys_class_name>

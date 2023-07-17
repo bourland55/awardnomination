@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
     <par_dashboard_widget action="INSERT_OR_UPDATE">
         <canvas display_value="">70a9a3ec084431108dd9d89ef52dfbc6</canvas>
-        <component display_value="">3a64f550256090d9578ede76158e899c</component>
+        <component display_value="now-heading">3a64f550256090d9578ede76158e899c</component>
         <component_props>{"variant":"title-primary","label":"This customized dashboard shows the collected data from the Awards App within a Chief of Staff view.","wontWrap":false,"hasNoMargin":false,"level":"1"}</component_props>
         <h>5</h>
         <name/>

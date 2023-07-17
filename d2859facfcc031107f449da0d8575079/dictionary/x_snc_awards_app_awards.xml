@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="501aef20fc8431107f449da0d857500b" label="Awards" max_length="40" name="x_snc_awards_app_awards" type="collection">
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Approving Official" max_length="32" name="approving_official" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Concurrence Official 1" max_length="32" name="concurrence_official_1" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Concurrence Official 2" max_length="32" name="concurrence_official_2" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Directorate" max_length="32" name="directorate" reference="x_snc_awards_app_directorate" type="reference"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Employee Name" max_length="32" name="employee_name" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Funding" max_length="40" name="funding" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="GF" value="gf"/>
+                <element inactive_on_update="false" label="WC" value="wc"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Monetary Level" max_length="40" name="monetary_level" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Agency ($5,000 - $10,000)" value="agency_5_000"/>
+                <element inactive_on_update="false" label="Branch/Team ($750)" value="branch_team_750"/>
+                <element inactive_on_update="false" label="Cross Directorate ($3,500)" value="cross_directorate_3_500"/>
+                <element inactive_on_update="false" label="Directorate ($2,500)" value="directorate_2_500"/>
+                <element inactive_on_update="false" label="Division ($1,500)" value="division_1_500"/>
+                <element inactive_on_update="false" label="DoD (&gt;$10,000)" value="dod_10_000"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Nominating Official" max_length="32" name="nominating_official" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Approved" value="approved"/>
+                <element inactive_on_update="false" label="Rejected " value="rejected"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Team Name" max_length="40" name="team_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Type of Award" max_length="40" name="type_of_award" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Monetary" value="monetary"/>
+                <element inactive_on_update="false" label="Time-off" value="time_off"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="approving_official"/>
+        </index>
+        <index name="index2">
+            <element name="concurrence_official_1"/>
+        </index>
+        <index name="index3">
+            <element name="concurrence_official_2"/>
+        </index>
+        <index name="index4">
+            <element name="directorate"/>
+        </index>
+        <index name="index5">
+            <element name="employee_name"/>
+        </index>
+        <index name="index6">
+            <element name="nominating_official"/>
+        </index>
+    </element>
+</database>
